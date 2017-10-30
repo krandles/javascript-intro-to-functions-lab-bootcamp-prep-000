@@ -15,5 +15,5 @@ function logWhisper() {
 }
 
 function sayHiToGrandma(string) {
-   
+
 }
